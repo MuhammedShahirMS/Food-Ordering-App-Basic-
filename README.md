@@ -1,4 +1,4 @@
-This is a Food Order App I created using React and normal css styling. And, it's my First Project.
+This is a Food Order App I created using React with css styling. And, it's my First Project.
 Actually, I did this as a part of learning React Course on Udemy provided by Maximilian Schwarzmüller.
 But, this is my own code and I have not copied or referred the Instructor's solution except for bumping/highlighting just a Cart button while adding/removing items.
 And, my code is much different from the Instructor's solution as I had gone through his code afterwards which he has provided only as a Video lecture and not shared as code from which someone can copy directly.
