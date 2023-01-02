@@ -1,0 +1,22 @@
+.menu {
+display: flex;
+width: 75%;
+margin-left: 10rem;
+    
+}
+
+.menu ul {
+    width: 95%;
+}
+
+.menu li {
+ 
+ height: 10rem;
+ padding-left: 2rem;
+ list-style: none;
+ border-radius: 1rem;
+ border: 1px solid salmon;
+ width: 100%;
+}
+
+

@@ -1,0 +1,42 @@
+.background {
+    align-content: center;
+    margin-top: 0.5rem;
+    width: 100%;
+    height: 100%;
+    background: black;
+  }
+
+  .main-image {
+    z-index: -1;
+    overflow:hidden;
+    margin-bottom: 2rem;
+    margin-top: -8.5rem;
+  }
+  
+  .main-image img {
+    width: 110%;
+    height: 25rem;
+    margin-bottom: 3rem;
+    object-fit: cover;
+    transform: rotateZ(-5deg) translateY(-4rem) translateX(-1rem);
+  }
+
+  .header {
+    position:fixed;
+    font-size: 2.5rem;
+    width: 100%;
+    height: 5rem;
+    background-color: #8a2b06;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    z-index: 2;
+  }
+
+.desc {
+    padding: 1.1rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 2rem;
+
+  }

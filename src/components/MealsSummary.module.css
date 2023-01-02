@@ -1,0 +1,25 @@
+.summary {
+    text-align: center;
+    position:sticky;
+    padding: 2rem;
+    padding-left: 2rem;
+    top: 15rem;
+    left:25rem;
+    background: #1b1919ee;
+    border-radius: 1rem;
+    width:40%;
+    z-index: 1;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    color: rgb(165, 165, 179);
+    
+}
+
+.summary h2 {
+margin: auto;
+color: rgb(131, 12, 12);
+font-style: italic;
+font-size: x-large;
+background-color: black;
+width: 25rem;
+}

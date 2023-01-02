@@ -1,0 +1,6 @@
+.card {
+    position: absolute;
+    background: white;
+    box-shadow: 0 2px 8px #00000042;
+    border-radius: 10px;
+}    

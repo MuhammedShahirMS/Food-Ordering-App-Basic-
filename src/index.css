@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #000000de;
+}
+
+.error {
+  padding-left: 2rem;
+  margin-left: 15rem;
+  width: 50rem;
+  color: red;
+  background: black;
+}

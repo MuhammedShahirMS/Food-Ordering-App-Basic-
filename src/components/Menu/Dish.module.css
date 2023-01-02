@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+}
+
+.item {
+    font-weight: bold;
+    font-stretch: extra-condensed;
+}
+
+.description {
+    color: black;
+    font-weight: normal;
+    font-style: italic;
+    font-size: large;
+}
+
+
+.price {
+    font: bold;
+    color: rgb(184, 134, 26);
+    font-size: larger;
+}
+
+.form {
+    position: absolute;
+    width:15rem;
+    margin-top: 3rem;
+    margin-left: 45rem;
+}
+
+.form label{
+    font-weight: bold;
+    font-stretch: wider;
+}
+
+.form input {
+    text-align: center;
+}
+
+.form button {
+    margin-left: 2rem;
+    background-color: rgb(143, 46, 22);
+    padding: 0.3rem;
+    margin-top: 0.7rem;
+    padding-inline: 1.5rem;
+    border: 0ch;
+    border-radius: 2rem;
+    color: white;
+}

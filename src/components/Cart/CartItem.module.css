@@ -1,0 +1,61 @@
+.item {
+  display: flex;
+}
+
+.name {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.data {
+  display: flex;
+}
+
+
+.amount {
+  position: absolute;
+  margin-left: 10rem;
+  margin-top: 1rem;
+  border: 0.1px solid rgba(0, 0, 0, 0.493);
+  padding: 0.3rem;
+}
+
+.price {
+    margin-top: 2rem;
+    font: bold;
+    font-size: large;
+    color: rgb(184, 134, 26);
+}
+
+.button1,
+  .button2 {
+    position:absolute;
+    border: none;
+    margin-top: 2.5rem;
+    border-radius: 5px;
+    background: #af490e;
+    color: white;
+    cursor: pointer;
+  }
+
+  .button1 {
+    margin-left: 35.5rem;
+    padding-inline: 0.5rem;
+    font-size: larger;
+  }
+
+  .button2 {
+    margin-left: 34rem;
+    padding-inline: 0.4rem;
+    font-size: large;
+  }
+  
+  .button:hover,
+  .button:active {
+    background: #741188;
+    border-color: #741188;
+  }
+  
+  .button:focus {
+    outline: none;
+  }

@@ -1,0 +1,42 @@
+form {
+    margin: 3rem;
+    width: 50%;
+}
+
+form label {
+    padding-right: 0rem;
+}
+
+form input {
+    border-radius: 2px;
+    border: 0.5px solid sienna;
+}
+
+.items {
+    display:grid;
+    margin: 1rem;
+}
+
+.actions {
+    display: flex;
+}
+
+.actions button {
+    font-size:medium;
+    margin-left: 7rem;
+    margin-bottom: 1.5rem;
+    padding: 0.2rem;
+    padding-inline: 1rem;
+    border: 0.1px solid rgb(192, 134, 93);
+    border-radius: 2rem;
+}
+
+.cancel-order {
+    background-color: grey;
+    color: black;
+}
+
+.place-order {
+    background-color: sandybrown;
+    color: black;
+}
