@@ -13,4 +13,4 @@ Project done with: React JS | Create React App | React Context API | Firebase Re
 More info:
 - The Menu is actually fetched from a backend (Firebase RealTime Database) and in case of No Internet connection, an error message will be displayed.
 - I used React Context for this Project for managing a Central Provider for different files.
-- My Next Project (E-commerce-app) is much bigger than this as it uses Routing, Authentication and many other features. Please have a look.
+- My Next Project (E-commerce-app) is much bigger than this as it uses Routing, Authentication, Redux and many other features. Please have a look.
