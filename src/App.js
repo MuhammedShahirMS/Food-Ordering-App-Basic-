@@ -13,7 +13,7 @@ const ctx = useContext(AuthContext);
 useEffect( () => {       // for fetching data for displaying Meals List upon loading the page.
 const menuFetch = async () => {
     try {
-    const response = await fetch('https://reacthttp-896a2-default-rtdb.asia-southeast1.firebasedatabase.app/Meals.json');
+    const response = await fetch('https://food-order-app-c034a-default-rtdb.asia-southeast1.firebasedatabase.app/Meals.json');
     if(!response.ok) {
       throw new Error('Failed');
     }
