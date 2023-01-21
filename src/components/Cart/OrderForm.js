@@ -28,7 +28,7 @@ const OrderForm = (props) => {
         } 
 
     
-        fetch('https://reacthttp-896a2-default-rtdb.asia-southeast1.firebasedatabase.app/orderUsers/user.json',
+        fetch('https://food-order-app-c034a-default-rtdb.asia-southeast1.firebasedatabase.app/orderUsers/user.json',
         {method : 'POST',
          body   : JSON.stringify({UserName    : name,
                                   userAddress : address,
