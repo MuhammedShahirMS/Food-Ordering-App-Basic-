@@ -6,7 +6,7 @@
 • If we decrease any item's quantity to zero, it gets removed from the Cart immediately.
 • Hitting the Order button brings a Form for Address input we must fill.
 • If we cancel the Order before hitting the Place Order button, the Cart gets cleared cancelling the Order.
-• Successful Orders get stored in a backend (Firebase).
+• Successful Orders get stored on a backend (Firebase).
 
 Project done with: React JS | Create React App | React Context API | Firebase Realtime Database | CSS Modules
 
